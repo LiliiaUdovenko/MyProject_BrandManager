@@ -5,7 +5,8 @@ This compilation showcases projects developed when I was working as a brand mana
 
 
 
-![cover](https://github.com/user-attachments/assets/31f53a7d-40bd-4e83-bf8f-feb05da06597)
+![cover](https://github.com/user-attachments/assets/551791c7-71bf-40b3-87a0-c4364f092977)
+
 ![jan](https://github.com/user-attachments/assets/e535e818-7d90-4410-a31f-de8449997da2)
 ![feb](https://github.com/user-attachments/assets/40a349ad-674f-4fd2-806b-ec84971e81d4)
 ![mar](https://github.com/user-attachments/assets/e37e0979-bbbf-4184-85b2-b7d697215c26)
