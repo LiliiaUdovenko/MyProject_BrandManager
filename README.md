@@ -18,4 +18,4 @@ This compilation showcases projects developed when I was working as a brand mana
 ![sep](https://github.com/user-attachments/assets/763bc8f0-c3bf-4528-9c9b-d74a53eecdea)
 ![oct](https://github.com/user-attachments/assets/fe0fc93f-21de-4ba4-bb08-c4173a1c5ec9)
 ![nov](https://github.com/user-attachments/assets/1ac73557-0aaf-4f4d-8224-b8747f85d0f3)
-![dec](https://github.com/user-attachments/assets/52cc43b9-0aa6-4faf-a088-0bbe9bdb95a2)
+![dec](https://github.com/user-attachments/assets/f3446621-cdfa-4303-9e95-7a704500fb51)
