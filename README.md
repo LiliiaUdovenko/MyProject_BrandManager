@@ -2,20 +2,17 @@
 This compilation showcases projects developed when I was working as a brand manager across diverse sectors within Ukraine
 
 
+![cover](https://github.com/user-attachments/assets/5adec03b-95ac-404f-a401-d18d1d9ffe65)
+![jan](https://github.com/user-attachments/assets/b1dfaeba-e825-4015-842b-da841d42c72e)
+![feb](https://github.com/user-attachments/assets/1febb5f3-1bd7-448f-ac67-d486b1546431)
+![mar](https://github.com/user-attachments/assets/b3427ef6-a144-477f-9699-4d0e0e913eea)
+![apr](https://github.com/user-attachments/assets/c4c7ed3d-184e-4934-80b8-02e852c17447)
+![may](https://github.com/user-attachments/assets/bfb8ab83-38a2-40dc-ba4b-e1ac377d7f63)
+![jun](https://github.com/user-attachments/assets/297676ee-daaa-4e20-ade2-836cba792922)
+![jul](https://github.com/user-attachments/assets/f4036ec4-3597-4861-af67-3daefc3c7138)
+![aug](https://github.com/user-attachments/assets/37a27b0b-fbfc-42e4-aeb1-096593d54871)
+![sep](https://github.com/user-attachments/assets/f98d0f2b-47bd-40a7-bec0-c7ade440c8ed)
+![oct](https://github.com/user-attachments/assets/9a7e4b76-98ae-4cf1-badd-612f84995aac)
+![nov](https://github.com/user-attachments/assets/9874bc72-3d50-40ff-ac8d-972daf8039cd)
+![dec](https://github.com/user-attachments/assets/4521206e-2717-4c66-8a9b-dc03bb4da08d)
 
-
-
-![cover](https://github.com/user-attachments/assets/551791c7-71bf-40b3-87a0-c4364f092977)
-
-![jan](https://github.com/user-attachments/assets/e535e818-7d90-4410-a31f-de8449997da2)
-![feb](https://github.com/user-attachments/assets/40a349ad-674f-4fd2-806b-ec84971e81d4)
-![mar](https://github.com/user-attachments/assets/e37e0979-bbbf-4184-85b2-b7d697215c26)
-![apr](https://github.com/user-attachments/assets/a65d216b-097b-4ab8-a0e6-6f91e239efb3)
-![may](https://github.com/user-attachments/assets/9a658fb4-63cc-4290-aa04-a413bb945a22)
-![jun](https://github.com/user-attachments/assets/2c52a39a-508a-4577-b82d-bbd800eddd7d)
-![jul](https://github.com/user-attachments/assets/20061b33-6179-470a-ac95-aeac86559624)
-![aug](https://github.com/user-attachments/assets/5ed99b0a-efe7-41fa-ab83-dbda31160677)
-![sep](https://github.com/user-attachments/assets/763bc8f0-c3bf-4528-9c9b-d74a53eecdea)
-![oct](https://github.com/user-attachments/assets/fe0fc93f-21de-4ba4-bb08-c4173a1c5ec9)
-![nov](https://github.com/user-attachments/assets/1ac73557-0aaf-4f4d-8224-b8747f85d0f3)
-![dec](https://github.com/user-attachments/assets/f3446621-cdfa-4303-9e95-7a704500fb51)
